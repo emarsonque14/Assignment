@@ -1,0 +1,87 @@
+body {
+	background-color: #66FFFF;
+}
+h1 {
+	color: White;
+	background-color: #000066;
+	padding: 20px;
+	margin: 0;
+}
+
+h2 {
+	background-color: #0099CC;
+	padding: 20px;
+	margin: 0;
+}
+
+.par {
+	color: #333;
+	background-color: #00CCFF;
+	padding: 10px;
+	margin: 0;
+}
+
+#table {
+	border: 1px solid #78A195;
+	margin: 3%;
+	width: 25%
+}
+.myPanel {
+	margin: 2%;
+}
+.myPanel p {
+	color: #333;
+	background-color: #00CCFF;
+	border: 1px solid #78A195;
+	margin: 1%;
+}
+
+.Name {
+	color: Red;
+}
+
+.head {
+	color: white;
+	background-color: #000033;
+}
+
+.odd {
+	background-color: #339999;
+}
+
+.even {
+	background-color: #3399FF;
+}
+
+
+
+video {
+	margin: 2%;
+}
+
+audio {
+	margin: 2%
+}
+
+.comment {
+	text-align: center;
+}
+
+.foot {
+	margin: 2%;
+	color: #333;
+	background-color: #00CCFF;
+	border: 1px solid #78A195;
+	padding: 0px;
+}
+
+.foot p {
+	display: inline-block;
+	margin: 5px;
+	
+}
+
+table {
+	border-spacing: 0;
+}
+
